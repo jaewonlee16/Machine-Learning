@@ -1,5 +1,9 @@
 ### Python ###
 
+# tar
+*.tar
+*.gz
+
 # Colab settings
 git.ipynb
 
